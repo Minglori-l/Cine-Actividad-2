@@ -47,5 +47,6 @@ class Sala {
 
 }
 
+
 module.exports = Sala;
 
